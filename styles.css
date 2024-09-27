@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+.Card{
+            background-color: rgb(227, 211, 211);
+            width: 400px;
+            text-align: center;
+            padding: 20px;
+            box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+        }
+
+        .Card img{
+            max-width: 250px;
+            height: auto;
+        }
+
+        button{
+            background-color: tomato;
+            border-radius: 6px;
+            color: #fff;
+            padding: 8px 12px;
+            border: none;
+        }
